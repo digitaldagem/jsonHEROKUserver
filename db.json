@@ -2,6 +2,36 @@
     "apartments": [ 
 		{ 
 			"id": "1",
+			"description": "Beautiful spacious co-op apartment with gorgeous views of the South Bronx",
+			"city": "Bronx",
+			"state": "New York",
+			"neighborhood": "Fleetwood - Concourse Village",
+			"price": "$2,000",
+			"bedrooms": "1",
+			"address": "1020 Grand Concourse Apt 21L, Bronx, NY 10451"
+		},
+		{ 
+			"id": "2",
+			"description": "Upgraded Kitchen And Huge Master Bedroom With One Bedroom",
+			"city": "Bronx",
+			"state": "New York",
+			"neighborhood": "Morris Park",
+			"price": "$2,450",
+			"bedrooms": "3",
+			"address": "1569 Paulding Ave, Bronx, NY 10462"
+		},
+		{ 
+			"id": "3",
+			"description": "Upgraded Kitchen And Huge Master Bedroom With One Bedroom",
+			"city": "Bronx",
+			"state": "New York",
+			"neighborhood": "Bronxwood",
+			"price": "$2,150",
+			"bedrooms": "2",
+			"address": "3036 Bronxwood Ave Unit 2A, New York, NY 10469"
+		},
+		{ 
+			"id": "4",
 			"description": "Upgraded Kitchen And Huge Master Bedroom With One Bedroom",
 			"city": "Brooklyn",
 			"state": "New York",
@@ -11,7 +41,7 @@
 			"address": "340 Lafayette Avenue, Brooklyn, NY 11238"
 		},
 		{ 
-			"id": "2",
+			"id": "5",
 			"description": "Impressive Bushwick 3BR HUGE rooms Halsey J / Wilson L No Fee",
 			"city": "Brooklyn",
 			"state": "New York",
@@ -21,7 +51,7 @@
 			"address": "595 Central Ave, Brooklyn, NY 11238"
 		},
 		{ 
-			"id": "3",
+			"id": "6",
 			"description": "BROWNSTOWN // BRAND NEW RENOVATED DUPLEX",
 			"city": "Brooklyn",
 			"state": "New York",
