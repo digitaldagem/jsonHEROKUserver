@@ -59,6 +59,26 @@
 			"price": "$3,800",
 			"bedrooms": "4",
 			"address": "1288 Dean Street, Brooklyn, NY 11216"
+		},
+		{ 
+			"id": "7",
+			"description": "Spacious 3 Bedroom apartment in Astoria ONLY $2300 NO BROKERS FEE",
+			"city": "Queens",
+			"state": "New York",
+			"neighborhood": "Astoria",
+			"price": "$2,300",
+			"bedrooms": "3",
+			"address": "2601 29th St Unit 2, Queens, NY 11102"
+		},
+		{ 
+			"id": "8",
+			"description": "Beautiful and luxurious High rise Manhattan style condo",
+			"city": "Staten Island",
+			"state": "New York",
+			"neighborhood": "Rosebank",
+			"price": "$2,800",
+			"bedrooms": "1",
+			"address": "31 Hylan Blvd Apt 8C, Staten Island, NY 10305"
 		}
 	]
   }
